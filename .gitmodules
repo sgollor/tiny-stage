@@ -1,0 +1,3 @@
+[submodule "synced_folders/ipa/freeipa-fas"]
+	path = synced_folders/ipa/freeipa-fas
+	url = https://github.com/fedora-infra/freeipa-fas.git
